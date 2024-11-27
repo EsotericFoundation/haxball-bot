@@ -1,26 +1,4 @@
 {
-  "name": "haxball-bot",
-  "version": "1.0.0",
-  "description": "A custom Discord bot commission made for a haxball discord server.",
-  "main": "src/main.js",
-  "scripts": {
-    "run": "node ."
-  },
-  "author": {
-    "name": "Esoteric Foundation",
-    "url": "https://www.github.com/EsotericFoundation"
-  },
-  "contributors": [
-    {
-      "name": "rolyPolyVole",
-      "url": "https://www.github.com/rolyPolyVole"
-    },
-    {
-      "name": "Esoteric Enderman",
-      "url": "https://www.github.com/EsotericEnderman"
-    }
-  ],
-  "license": "MIT",
   "dependencies": {
     "@discordjs/rest": "^1.7.1",
     "chalk": "^4.1.2",
