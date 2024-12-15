@@ -1,6 +1,6 @@
 # Haxball Bot
 
-[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
 
 > A custom Discord bot commission made for a haxball Discord server.
 
